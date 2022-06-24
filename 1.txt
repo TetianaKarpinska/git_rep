@@ -7,3 +7,4 @@ elif money==15:
     print("You can buy a cake, or one candy and one bar of chocolate, or three candies.")
 else:
     print("You can buy something.")
+    print()
