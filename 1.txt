@@ -1,0 +1,9 @@
+money=15
+if money==5:
+    print("You can buy a candy.")
+elif money==10:
+    print("You can buy 2 candies or one bar of chocolate.")
+elif money==15:
+    print("You can buy a cake, or one candy and one bar of chocolate, or three candies.")
+else:
+    print("You can buy something.")
