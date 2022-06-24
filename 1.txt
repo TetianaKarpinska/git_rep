@@ -8,3 +8,12 @@ elif money==15:
 else:
     print("You can buy something.")
     print()
+
+amount = 18
+cost = 2
+count = 0
+sum = 0
+while amount - sum >= cost:
+	count += 1
+	sum += cost
+print(count, "candies")
